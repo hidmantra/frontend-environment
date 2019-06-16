@@ -29,7 +29,13 @@ GLOBAL DEPENDENCIES:
 5. Initialize sympm <code>sympm install</code>
 
 PREVIEW APP ON MOBILE DEVICE VIA DEVAPP
-In Code (VSCode aka Visual Studio Code) select 'Terminal' from top menu, then 'New Terminal'. It will open inside of the project (because when you are editing in Code that's where you should be) inside of the terminal type <code>ionic serve --devapp</code>
+1. Your phone has to be in 'developer mode'. (check google for instructions to your particular device)
+
+2. You have to have and log into your ionic account when you run the dev-app oh your device.
+
+3. You have to be on the same wifi-Network as the machine building the project.
+
+4. In Code (VSCode aka Visual Studio Code) select 'Terminal' from top menu, then 'New Terminal'. It will open inside of the project (because when you are editing in Code that's where you should be) inside of the terminal type <code>ionic serve --devapp</code>
 
 
 
