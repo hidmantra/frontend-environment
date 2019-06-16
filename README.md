@@ -28,6 +28,9 @@ GLOBAL DEPENDENCIES:
 
 5. Initialize sympm <code>sympm install</code>
 
+PREVIEW APP ON MOBILE DEVICE VIA DEVAPP
+In Code (VSCode aka Visual Studio Code) select 'Terminal' from top menu, then 'New Terminal'. It will open inside of the project (because when you are editing in Code that's where you should be) inside of the terminal type <code>ionic serve --devapp</code>
+
 
 
 
