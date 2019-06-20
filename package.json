@@ -58,12 +58,12 @@
   "description": "this will be a shell to accomadate a variety of small games. It will handle user data, prize data, and be the communication layer between the games, host and server.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/app-mds/frontend-environment.git"
+    "url": "git+https://github.com/hidmantra/frontend-environment.git"
   },
   "author": "Deriv Diggs / Mike Khater",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/app-mds/frontend-environment/issues"
+    "url": "https://github.com/hidmantra/frontend-environment/issues"
   },
-  "homepage": "https://github.com/app-mds/frontend-environment#readme"
+  "homepage": "https://github.com/hidmantra/frontend-environment#readme"
 }
