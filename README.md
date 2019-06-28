@@ -4,6 +4,8 @@ Please follow these steps carefully! They will allow you to set up an identical 
 
 GLOBAL DEPENDENCIES: install first
 
+** to insure proper functionality, please use a MAC
+
 1. Install NVM to manage possible multiple versions of node <code>curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash</code>
 
 2. Install Node (a javascript server side environment) and NPM (a package manager that keeps track of downloads and their dependencies) <code>nvm install node</code>
