@@ -1,7 +1,8 @@
 {
-  "name": "myApp",
+  "name": "g-hub",
   "integrations": {
     "cordova": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "2175761e"
 }
